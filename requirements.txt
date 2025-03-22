@@ -1,0 +1,4 @@
+pytorch 
+cuda 2.12
+torch 
+make sure that your system has 4gb minimum gpu vram with cuda support
